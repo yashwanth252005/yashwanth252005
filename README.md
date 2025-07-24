@@ -1,22 +1,27 @@
-## Hi there 👋
+## 👋 Hi there, I'm Yashwanth!
 
-<!--
-**yashwanth252005/yashwanth252005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-re are some ideas to get you started:
+I'm a passionate full-stack web developer 🚀 who loves building modern and high-performance web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## yashwanth E S
+---
 
-## 🚀 GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashwanth252005&show_icons=true&locale=en" alt="yashwanth252005" />
+![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanth252005&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yashwanth252005" alt="yashwanth252005" />
+![GitHub Streak](https://streak-stats.demolab.com?user=yashwanth252005&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth252005&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yashwanth252005&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👁️ Visitor Count
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=yashwanth252005&color=blueviolet&style=flat)
+
+---
