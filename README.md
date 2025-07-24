@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning on **Projects, DSA and AI**
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1pdwEBWubCnfYmnLcH77OhxEi1uuyvUwo/view)
-- 💻 All of my projects are available on [GitHub](https://github.com/yashwanth252005/projects/)
+- 💻 All of my projects are available on [GitHub](https://github.com/yashwanth252005/)
 - 💬 Ask me about **App, Frontend, Backend, Deployments**
 - 📫 How to reach me: **yashwanthes252005@gmail.com**
 - 🌐 Personal portfolio - [My Portfolio](https://yashwanthes-my-id.vercel.app/)
