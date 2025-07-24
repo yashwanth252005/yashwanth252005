@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yashwanth252005&show_icons=true&locale=en&theme=tokyonight" alt="yashwanth252005" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yashwanth252005&theme=tokyonight" alt="yashwanth252005" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yashwanth252005" alt="yashwanth252005" />
