@@ -79,7 +79,7 @@
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yashwanth252005/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashwanth-es/)
 - 🌐 [My Portfolio](https://yashwanthes-my-id.vercel.app/)
 
 ---
