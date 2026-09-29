@@ -10,7 +10,6 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning on **Projects, DSA and AI**
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/11ehr1aPHCZrwRgjf3lwEdGOSqQGaktjL/view)
 - 💻 All of my projects are available on [GitHub](https://github.com/yashwanth252005/)
 - 💬 Ask me about **App, Frontend, Backend, Deployments**
 - 📫 How to reach me: **yashwanthes252005@gmail.com**
